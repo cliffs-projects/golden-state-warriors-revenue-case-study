@@ -2,6 +2,8 @@
 
 **A case study that investigates how to continue growing one of the largest sporting entities in the world.**
 
+*See the PDF for a comprehensive view of the case study!*
+
 ---
 
 ## 📋 Problem Statement
